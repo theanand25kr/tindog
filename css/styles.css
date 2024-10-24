@@ -13,7 +13,7 @@ p {
 
 /* Sections */
  .colored-section {
-   background-color: #ff4c68;
+   background-color: #088395;
    color: #fff;
  }
  .white-section {
@@ -78,7 +78,7 @@ p {
   padding: 2.5%;
 }
 .icon {
-  color: #ef8172;
+  color: #088395;
   margin-bottom: 1rem;
 }
 .icon:hover {
@@ -86,7 +86,7 @@ p {
 }
 /* Testimonials Section */
 #testimonials {
-  background-color: #ef8172;
+  background-color: #5F939A;
 }
 .testimonial-text {
   font-size: 3rem;
@@ -99,7 +99,7 @@ p {
 }
 /* Press Section */
 #press {
-  background-color: #ef8172;
+  background-color: #5F939A;
   padding-bottom: 3%;
 }
 .pess-logo {
